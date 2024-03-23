@@ -13,5 +13,3 @@ The files are:
 #### Task 2: Fastag Fraud Detection
 
 I have also included the datasets used in the repository.
-
-I have uploaded the videos on my youtube channel as well.
